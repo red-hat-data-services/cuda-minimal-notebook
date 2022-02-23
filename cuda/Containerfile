@@ -1,0 +1,4 @@
+FROM quay.io/modh/odh-notebooks:py38-minimal-latest
+
+## TODO: Enable CUDA repositories
+# RUN dnf install cuda
